@@ -1,0 +1,258 @@
+
+@font-face {
+    font-family: gilroy;
+    src: url(fonts/Gilroy-Regular.ttf);
+}
+
+.body {
+    width: 100%;
+    margin: 0; 
+    padding: 0; 
+    overflow-x: hidden;
+  }
+
+
+.navbar-brand{
+    margin-left: 50px;
+    padding-top: 70px;
+}
+.nav-item1{
+    margin-left: 
+    500px;
+    padding-top: 75px;
+    font-size: 17.161px;
+    color: black;
+    font-weight: 700;
+
+}
+.nav-item{
+    margin-left: 20px;
+    padding-top: 75px;
+    font-size: 17.161px;
+    color: black;
+    font-weight: 700;
+}
+
+.btn1{
+    font-family: "gilroy";
+    color: white;
+    background-color: #75BF7A;
+    border: none;
+    border-radius: 5.952px;
+width: 180px;
+padding-right: 27px;
+padding-left: 27;
+font-size: 22px;
+padding-top: 6px;
+padding-bottom: 5px;
+position: relative;
+top: 40px;
+right: 50px;
+
+}
+
+.container-xxl{
+    background-color: #e8eaeb4a;
+    margin-top: 30px;
+}
+
+.img1{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 110px;
+    margin-top: -275px;
+}
+
+.tagline{
+    position: relative;
+    top: 180px;
+    font-family: "gilroy";
+    
+}
+
+.imgbtn{
+   position: relative;
+   top: -85px;
+   margin-left: 60px;
+}
+
+.imgbtn2{
+    position: relative;
+    top: -138px;
+    margin-left: 295px;
+ }
+.container-lg{
+    background-color: #75BF7A;
+    color: white;
+    font-family: "gilroy";
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    height: 140px;
+
+    
+}
+
+.input{
+    margin-left: 310px;
+ position: relative;
+ top: -28px;
+ padding: 12px 20px;
+font-family: "gilroy";
+font-size: 20px;
+width: 100%;
+border-radius: 10px;
+
+}
+
+.btn4{
+    margin-left: 840px;
+   
+    position: relative;
+    top: -106px;
+    height: 67px;
+}
+
+.m1{
+    background-color: #f9f9f9;
+}
+
+.ct2{
+    background-color: #f9f9f9 ;
+
+}
+
+.ct2>container-xxl>row>coloumn>h1{
+    color: black;
+    
+}
+
+.imgel{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.imgmb{
+    display: flex;
+    justify-content: center;
+    margin-top: -485px;
+}
+
+.sticon{
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+}
+.one{
+position: relative;
+top: -512px;
+right: -397px;
+}
+.arc{
+    position: relative;
+    top: -555px;
+    right: -374px;
+}
+.req{
+    position: relative;
+    top: -530px;
+    right: -268px;
+}
+.reach{
+    position: relative;
+    top: -505px;
+    right: -160px;
+}
+
+.ndicon{
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+}
+
+.three{
+    position: relative;
+    top: -435px;
+    right: -397px;
+    }
+    .arc1{
+        position: relative;
+        top: -480px;
+        right: -374px;
+    }
+    .inst{
+        position: relative;
+        top: -450px;
+        right: -182px;
+    }
+    .noti{
+        position: relative;
+        top: -423px;
+        right: -168px;
+    }
+
+    .rdicon{
+     display: flex;
+    flex-direction: column;
+    width: 50px;
+}
+
+.two{
+    position: relative;
+    top: -912px;
+    right: -917px;
+    }
+    .arc2{
+        position: relative;
+        top: -955px;
+        right: -894px;
+    }
+    .post{
+        position: relative;
+        top: -934px;
+        right: -904px;
+    }
+    .ride{
+        position: relative;
+        top: -907px;
+        right: -907px;}
+
+        .fthicon{
+            display: flex;
+    flex-direction: column;
+    width: 50px;
+        }
+
+        .four{
+            position: relative;
+            top: -820px;
+            right: -922px;
+            }
+            .arc3{
+                position: relative;
+                top: -860px;
+                right: -900px;
+            }
+            .cash{
+                position: relative;
+                top: -830px;
+                right: -904px;
+            }
+            .pay{
+                position: relative;
+                top: -805px;
+                right: -907px;}
+
+                 .benefits{
+                    display: flex;
+                    justify-content: center;
+                    margin-top: -660px;
+                    font-weight: bolder;
+                    font-size: 46.386px;
+                    margin-left: 4px;
+                  
+                }
+                .ft{
+                    background-color: white;
+                }
+               
